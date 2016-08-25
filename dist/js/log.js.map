@@ -1,0 +1,1 @@
+{"version":3,"sources":["log.js"],"names":["console","log"],"mappings":"AAAAA,QAAQC,IAAI","file":"log.js","sourcesContent":["console.log(\"js编译成功\")"],"sourceRoot":"/source/"}
